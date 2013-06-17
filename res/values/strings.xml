@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SilicaWakeOnNotification</string>
+    <string name="toggle_activity">Toggle wake on notification</string>
+    <string name="wake_disabled">Wake on notification turned off</string>
+    <string name="wake_enabled">Wake on notification turned on</string>
+</resources>
